@@ -1,0 +1,1 @@
+# att-ck-mitre-microsoft-sentinel-mapper
